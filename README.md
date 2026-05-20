@@ -27,31 +27,31 @@ Aqui está o fluxo de funcionamento do sistema:
 
 2. Tela de Criação de Conta
 > *Área para registro de novos administradores.*
-![Tela de Registro](<img width="840" height="570" alt="Captura de tela 2026-05-20 134209" src="https://github.com/user-attachments/assets/31fce87e-e28f-41cb-ad21-be13b8bb14bb" />)
+![Tela de Registro]<img width="840" height="570" alt="Captura de tela 2026-05-20 134209" src="https://github.com/user-attachments/assets/31fce87e-e28f-41cb-ad21-be13b8bb14bb" />
 
 3. Painel Administrativo (Vazio)
 > *Visão geral do sistema CRUD antes da inserção de dados.*
-![Painel CRUD Vazio](<img width="846" height="567" alt="Captura de tela 2026-05-20 134233" src="https://github.com/user-attachments/assets/cd628bc9-3a7d-40c3-9b74-565086449001" />)
+![Painel CRUD Vazio]<img width="846" height="567" alt="Captura de tela 2026-05-20 134233" src="https://github.com/user-attachments/assets/cd628bc9-3a7d-40c3-9b74-565086449001" />
 
 4. Adicionando Cliente
 > *Preenchimento dos campos para adicionar um novo cliente.*
-![Adicionando Cliente](<img width="851" height="568" alt="Captura de tela 2026-05-20 134318" src="https://github.com/user-attachments/assets/83b50c42-5e31-496b-8c7e-628bcbf01c78" />)
+![Adicionando Cliente]<img width="851" height="568" alt="Captura de tela 2026-05-20 134318" src="https://github.com/user-attachments/assets/83b50c42-5e31-496b-8c7e-628bcbf01c78" />
 
 5. Cliente Adicionado
 > *Tabela atualizada após a primeira inserção.*
-![Cliente Adicionado](<img width="846" height="578" alt="Captura de tela 2026-05-20 134342" src="https://github.com/user-attachments/assets/2b0074cd-ca64-4489-85ed-ca55d86f8606" />)
+![Cliente Adicionado]<img width="846" height="578" alt="Captura de tela 2026-05-20 134342" src="https://github.com/user-attachments/assets/2b0074cd-ca64-4489-85ed-ca55d86f8606" />
 
 6. Múltiplos Registros
 > *Visualização da tabela com vários clientes cadastrados.*
-![Múltiplos Registros](<img width="841" height="567" alt="Captura de tela 2026-05-20 134422" src="https://github.com/user-attachments/assets/fec4b5cc-f8f8-4aa4-9f22-96feb7e8a7e9" />)
+![Múltiplos Registros]<img width="841" height="567" alt="Captura de tela 2026-05-20 134422" src="https://github.com/user-attachments/assets/fec4b5cc-f8f8-4aa4-9f22-96feb7e8a7e9" />
 
 7. Confirmação de Exclusão
 > *Pop-up de segurança exibido antes de deletar um registro.*
-![Confirmação de Exclusão](<img width="840" height="566" alt="Captura de tela 2026-05-20 134430" src="https://github.com/user-attachments/assets/e5c9730d-6fa2-4214-8ec5-ed4c866a38a3" />)
+![Confirmação de Exclusão]<img width="840" height="566" alt="Captura de tela 2026-05-20 134430" src="https://github.com/user-attachments/assets/e5c9730d-6fa2-4214-8ec5-ed4c866a38a3" />
 
 **8. Painel Atualizado**
 > *Resultado final após a exclusão de um registro.*
-![Painel Atualizado](<img width="844" height="566" alt="Captura de tela 2026-05-20 134435" src="https://github.com/user-attachments/assets/f9a7943d-9c50-4a1e-b530-5997134239c2" />)
+![Painel Atualizado]<img width="844" height="566" alt="Captura de tela 2026-05-20 134435" src="https://github.com/user-attachments/assets/f9a7943d-9c50-4a1e-b530-5997134239c2" />
 
 ---
 
