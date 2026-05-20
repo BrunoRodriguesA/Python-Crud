@@ -23,7 +23,7 @@ Aqui está o fluxo de funcionamento do sistema:
 
 1. Tela de Login
 > *Interface inicial onde o usuário insere suas credenciais.*
-![Tela de Login](<img width="838" height="565" alt="Captura de tela 2026-05-20 134157" src="https://github.com/user-attachments/assets/54c05efd-7042-4cef-9a4d-a2ea579ac11d" />)
+![Tela de Login]<img width="838" height="565" alt="Captura de tela 2026-05-20 134157" src="https://github.com/user-attachments/assets/54c05efd-7042-4cef-9a4d-a2ea579ac11d" />
 
 2. Tela de Criação de Conta
 > *Área para registro de novos administradores.*
